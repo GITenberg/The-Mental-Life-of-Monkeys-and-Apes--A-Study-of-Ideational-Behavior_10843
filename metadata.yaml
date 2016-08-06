@@ -1,0 +1,30 @@
+_repo: The-Mental-Life-of-Monkeys-and-Apes--A-Study-of-Ideational-Behavior_10843
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Yerkes, Robert Mearns
+    birthdate: 1876
+    deathdate: 1956
+    gutenberg_agent_id: '2864'
+    url: http://www.gutenberg.org/2009/agents/2864
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Yerkes
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10843'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal intelligence'
+- !lcc 'QL'
+- !lcsh 'Mammals -- Psychology'
+- !lcsh 'Primates -- Psychology'
+- GITenberg
+title: 'The Mental Life of Monkeys and Apes: A Study of Ideational Behavior'
+url: http://www.gutenberg.org/ebooks/10843
